@@ -83,7 +83,7 @@ blacklist ${HOME}/snap
 apparmor
 #caps.drop all
 ##caps.keep CAPS
-hostname STOPDOXINGME
+
 # CLI only
 ipc-namespace
 # breaks sound and sometime dbus related functions
